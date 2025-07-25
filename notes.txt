@@ -1,0 +1,6 @@
+Use finnhub for fundamentals,
+has financials-reported and metrics 
+
+Use yf for stock data, has about 30 years easy.
+
+Use that hf lib FNSPID for long term news.
