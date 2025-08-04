@@ -4,3 +4,38 @@ has financials-reported and metrics
 Use yf for stock data, has about 30 years easy.
 
 Use that hf lib FNSPID for long term news.
+
+
+
+    Pretend that you are a fundamental investment analyst. Analyze the financial performance of NVDA and give a recommendation: Strong Buy, Buy, Hold, Sell, or Short. 
+    Justify your decision in 4–6 bullet points using financial reasoning. Consider all the financial information shared. Only use the numerical data given. 
+    Do not add assumptions about company operations, reputation, or strategy.
+
+    Financials for NVDA:
+
+    
+    Year: 2024
+    Income Statement:
+    Revenue: $391,035,000,000
+    Gross Profit: $180,683,000,000
+    Net Income: $93,736,000,000
+    EPS (Diluted): 6.08
+
+    Balance Sheet:
+    Total Assets: $364,980,000,000
+    Total Liabilities: $308,030,000,000
+    Shareholders' Equity: $56,950,000,000
+
+    Cash Flow:
+    Operating Cash Flow: $118,254,000,000
+    Free Cash Flow: $118,254,000,000
+    Investing Cash Flow: $2,935,000,000
+    Financing Cash Flow: $-121,983,000,000
+
+    Valuation and Ratios:
+    P/E Ratio: 37.58
+    ROA: 25.68%
+    ROE: 164.59%
+
+    
+Based on this, what is your investment recommendation? Pick one action candidate.
