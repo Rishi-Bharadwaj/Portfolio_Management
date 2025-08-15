@@ -39,3 +39,7 @@ Use that hf lib FNSPID for long term news.
 
     
 Based on this, what is your investment recommendation? Pick one action candidate.
+
+
+
+rsync -avzP "C:/Users/rishi/ml_projects/Portfolio Management/nasdaq_exteral_data.csv" f20222001@164.52.208.209:/home/f20222001/test-venv/Portfolio/
