@@ -1,47 +1,88 @@
-Use finnhub for fundamentals,
-has financials-reported and metrics 
+Year: 2020
+                Income Statement:
+                Revenue: $274,515,000,000
+                Gross Profit: $104,956,000,000
+                Net Income: $57,411,000,000
+                EPS (Diluted): 3.28
 
-Use yf for stock data, has about 30 years easy.
+                Balance Sheet:
+                Total Assets: $323,888,000,000
+                Total Liabilities: $258,549,000,000
+                Shareholders' Equity: $65,339,000,000
 
-Use that hf lib FNSPID for long term news.
+                Cash Flow:
+                Operating Cash Flow: $80,674,000,000
+                Investing Cash Flow: $-4,289,000,000
+                Financing Cash Flow: $-86,820,000,000
 
+                Valuation and Ratios:
+                P/E Ratio: 34.25
+                ROA: 17.73%
+                ROE: 87.87%
+                
+                Year: 2021
+                Income Statement:
+                Revenue: $365,817,000,000
+                Gross Profit: $152,836,000,000
+                Net Income: $94,680,000,000
+                EPS (Diluted): 5.61
 
+                Balance Sheet:
+                Total Assets: $351,002,000,000
+                Total Liabilities: $287,912,000,000
+                Shareholders' Equity: $63,090,000,000
 
-    Pretend that you are a fundamental investment analyst. Analyze the financial performance of NVDA and give a recommendation: Strong Buy, Buy, Hold, Sell, or Short. 
-    Justify your decision in 4–6 bullet points using financial reasoning. Consider all the financial information shared. Only use the numerical data given. 
-    Do not add assumptions about company operations, reputation, or strategy.
+                Cash Flow:
+                Operating Cash Flow: $104,038,000,000
+                Investing Cash Flow: $-14,545,000,000
+                Financing Cash Flow: $-93,353,000,000
 
-    Financials for NVDA:
+                Valuation and Ratios:
+                P/E Ratio: 25.38
+                ROA: 26.97%
+                ROE: 150.07%
+                Financials for NVDA:
 
-    
-    Year: 2024
-    Income Statement:
-    Revenue: $391,035,000,000
-    Gross Profit: $180,683,000,000
-    Net Income: $93,736,000,000
-    EPS (Diluted): 6.08
+                Year: 2020
+                Income Statement:
+                Revenue: $10,918,000,000
+                Gross Profit: $6,768,000,000
+                Net Income: $2,796,000,000
+                EPS (Diluted): 4.52
 
-    Balance Sheet:
-    Total Assets: $364,980,000,000
-    Total Liabilities: $308,030,000,000
-    Shareholders' Equity: $56,950,000,000
+                Balance Sheet:
+                Total Assets: $17,315,000,000
+                Total Liabilities: $5,111,000,000
+                Shareholders' Equity: $12,204,000,000
 
-    Cash Flow:
-    Operating Cash Flow: $118,254,000,000
-    Free Cash Flow: $118,254,000,000
-    Investing Cash Flow: $2,935,000,000
-    Financing Cash Flow: $-121,983,000,000
+                Cash Flow:
+                Operating Cash Flow: $4,761,000,000
+                Investing Cash Flow: $6,145,000,000
+                Financing Cash Flow: $-792,000,000
 
-    Valuation and Ratios:
-    P/E Ratio: 37.58
-    ROA: 25.68%
-    ROE: 164.59%
+                Valuation and Ratios:
+                P/E Ratio: 52.58
+                ROA: 16.15%
+                ROE: 22.91%
+                
+                Year: 2021
+                Income Statement:
+                Revenue: $16,675,000,000
+                Gross Profit: $10,396,000,000
+                Net Income: $4,332,000,000
+                EPS (Diluted): 6.90
 
-    
-Based on this, what is your investment recommendation? Pick one action candidate.
+                Balance Sheet:
+                Total Assets: $28,791,000,000
+                Total Liabilities: $11,898,000,000
+                Shareholders' Equity: $16,893,000,000
 
+                Cash Flow:
+                Operating Cash Flow: $5,822,000,000
+                Investing Cash Flow: $-19,675,000,000
+                Financing Cash Flow: $3,804,000,000
 
-
-rsync -avzP "C:/Users/rishi/ml_projects/Portfolio Management/nasdaq_exteral_data.csv" f20222001@164.52.208.209:/home/f20222001/test-venv/Portfolio/
-
-sdfsdf vwf 
+                Valuation and Ratios:
+                P/E Ratio: 75.66
+                ROA: 15.05%
+                ROE: 25.64%
